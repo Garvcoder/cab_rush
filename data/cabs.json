@@ -1,0 +1,9 @@
+[
+  {"id": "C1", "driver": "Aadi", "seats": 4, "destination": "Delhi", "time_slot": "Morning"},
+  {"id": "C2", "driver": "Parin", "seats": 3, "destination": "Delhi", "time_slot": "Morning"},
+  {"id": "C3", "driver": "Arnav", "seats": 4, "destination": "Delhi", "time_slot": "Evening"},
+  {"id": "C4", "driver": "Garv", "seats": 2, "destination": "Delhi", "time_slot": "Night"},
+  {"id": "C5", "driver": "Ramu", "seats": 4, "destination": "Jaipur", "time_slot": "Morning"},
+  {"id": "C6", "driver": "Jensen", "seats": 4, "destination": "Jaipur", "time_slot": "Afternoon"},
+  {"id": "C7", "driver": "Trump", "seats": 1, "destination": "Jaipur", "time_slot": "Night"}
+]
